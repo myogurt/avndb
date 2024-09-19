@@ -440,7 +440,7 @@ a {
 	top: 15px;
 	right: 402px;
 	width: 280px;
-	height: 280px;
+	height: 380px;
 	background: #E5E5E5;
 	border-radius: 15px;
 	border: 1px solid rgba(0,0,0,.2);
@@ -536,38 +536,32 @@ a {
 }
 
 .developer-patreon img {
-	width: 14px;
-	height: 16px;
+	width: 15px;
+	height: 17px;
 }
 
 .developer-subscribestar img {
-	width: 16px;
-	height: 18px;
+	width: 17px;
 }
 
 .developer-boosty img {
-	width: 27px;
-	height: 27px;
+	width: 22px;
 }
 
 .developer-itch img {
 	width: 17px;
-	height: 19px;
 }
 
 .developer-discord img {
-	width: 13px;
-	height: 15px;
+	width: 18px;
 }
 
 .developer-vk img {
-	width: 13px;
-	height: 15px;
+	width: 17px;
 }
 
 .developer-telegram img {
-	width: 13px;
-	height: 15px;
+	width: 18px;
 }
 
 .developer-resourses span {
